@@ -28,5 +28,3 @@ coverage
 *.sln
 *.sw?
 
-# Added by WJF
-package-lock.json
